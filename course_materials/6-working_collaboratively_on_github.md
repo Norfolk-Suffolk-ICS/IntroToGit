@@ -1,4 +1,4 @@
-# Working collaboratively on Github and Gitea
+# Working collaboratively on Github
 
 ## Issues
 
@@ -91,4 +91,4 @@ Projects provide a visual and structured way to manage and organize work within 
 3. **Automation:**
    - Projects can include automation, linking issues and pull requests to specific columns based on their status or labels.
 
-Working collaboratively using these concepts enhances communication, coordination, and transparency within a development or analytical team. These features, offered by platforms like GitHub and Gitea, streamline project management and contribute to the overall success of collaborative endeavors.
+Working collaboratively using these concepts enhances communication, coordination, and transparency within a development or analytical team. These features, offered by platforms like GitHub, streamline project management and contribute to the overall success of collaborative endeavors.

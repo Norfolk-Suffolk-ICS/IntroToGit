@@ -1,4 +1,4 @@
-# Intro to Git, Github and Gitea
+# Intro to Git and Github 
 
 ## Learning objectives
 
@@ -6,9 +6,9 @@ By the end of this course, you should:
 
 - Understand what version control is and why it's an important part of the analytical toolbox
 - Understand what Git is and why it's a great tool for version control
-- Understand the differences between Git, Github and Gitea, and how these tools work together
+- Understand the differences between Git and Github, and how these tools work together
 - Be able to use basic Git commands to version control your own work
-- Be able to use Github and Gitea to work collaboratively on projects
+- Be able to use Github to work collaboratively on projects
 
 ## Course outline
 
@@ -23,10 +23,9 @@ We will cover the following topics:
 - What is Git?
 - Why use Git?
 
-### Intro to Github and Gitea
+### Intro to Github
 - What is Github?
-- What is Gitea?
-- Why use Github and Gitea?
+- Why use Github?
 
 ### Basic Git concepts
 - Initialising and cloning a repository
@@ -36,7 +35,7 @@ We will cover the following topics:
 - Sharing changes with your remote repository
 - Updating your local repository
 
-### Working Collaboratively on Github and Gitea
+### Working Collaboratively on Github
 - Issues
 - Pull requests
 - Milestones (if time)
