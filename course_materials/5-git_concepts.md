@@ -108,3 +108,14 @@ git pull origin branch-name
 ```
 
 This Git workflow, from cloning a repository to making changes, staging, committing, and sharing with others, forms the foundation for organized and collaborative development processes. Each step contributes to maintaining a clear history of project changes and facilitating effective teamwork.
+
+
+## .gitignore
+
+Your repository has something called a .gitignore file.
+
+Why does it have the "." at the start. Well all this means is it is "hidden", so when you look at your project through the file explorer you wont see it (dont worry though, it is there)
+
+If you put the name of any file in there, it will never be suggested as something you want to "stage". Therefore, there is no risk you accidentally stage, commit and push a file when you put it in the .gitignore.
+
+If you look at the .gitignore you will see files like .RData are included. Crucially, this protects you from pushing sensitive data onto the central repository.
